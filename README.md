@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I build things that live on the web.
+- 🌱 I’m currently learning fullstack serverless development with AWS (Amplify) and Firebase.
+- 🌠 Aspiring Cloud Developer.
+
+[![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtha3rd)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **edtha3rd/edtha3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
