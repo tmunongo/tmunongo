@@ -1,25 +1,13 @@
 ### Hi there 👋
 
 I build things that live on the web.
-- 🌱 I’m currently learning fullstack serverless development with AWS (Amplify) and Firebase.
-- 🌠 Aspiring Cloud Developer.
+- Full stack Engineer.
+  - JavaScript Web Ecosystem.
+  - Networking and Network automation with Python.
+- Tech Blogger @ [The Thought Realm]("https://www.tawandamunongo.tech")
+- 🌠 Aspiring Cloud Architect.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmunongo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmunongo&layout=compact"/>
 
 [![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmunongo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**edtha3rd/edtha3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
