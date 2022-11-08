@@ -4,6 +4,7 @@ I build things that live on the web.
 - Full stack Engineer.
   - JavaScript Web Ecosystem.
   - Networking and Network automation with Python.
+  - GCS and Oracle Cloud
 - Tech Blogger @ [The Thought Realm](https://www.tawandamunongo.tech)
 - 🌠 Aspiring Cloud Architect.
 
