@@ -5,7 +5,7 @@ I build things that live on the web.
   - JavaScript Web Ecosystem.
   - Networking and Network automation with Python.
   - GCS and Oracle Cloud
-- Tech Blogger @ [The Thought Realm](https://www.tawandamunongo.tech)
+- Tech Blogger @ [My Blog](https://www.tawandamunongo.tech)
 - 🌠 Aspiring Cloud Architect.
 
 [![](https://img.shields.io/badge/Medium-2E3138?style=for-the-badge&logo=medium&logoColor=white)](https://thoughtrealm.medium.com)[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tawanda-munongo/)
