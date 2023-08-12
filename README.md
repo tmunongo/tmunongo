@@ -2,8 +2,8 @@
 
 I build things that live on the web.
 - Fullstack Developer.
-  - Web and Mobile Developer.  
-  - JavaScript, PHP, Java, Rust, Kotlin, and a bit of Python.
+  - Web and Mobile.  
+  - JS/TS, PHP, Java, Rust, Kotlin, and Python (if I have to).
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 
 <div align="left">
