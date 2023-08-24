@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 I build things that live on the web.
 - Fullstack Developer.
   - Web and Mobile.  
   - JS/TS, PHP, Java, Rust, Kotlin, and Python (if I have to).
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
+
+## My Stack
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript Logo" width="100" />
@@ -18,7 +20,7 @@ I build things that live on the web.
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="100" />
 </div>
 
-
+## Get in touch
 [![](https://img.shields.io/badge/Medium-2E3138?style=for-the-badge&logo=medium&logoColor=white)](https://thoughtrealm.medium.com)[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tawanda-munongo/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmunongo&layout=compact"/>
