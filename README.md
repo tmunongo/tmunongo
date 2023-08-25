@@ -10,7 +10,7 @@ I build things that live on the web.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,kotlin,java,php,rust,python,react,laravel,docker,nginx,postgres,linux,vim,bash,azure,git$perline=5" />
+    <img src="https://skillicons.dev/icons?i=ts,kotlin,java,php,rust,python,react,laravel,spring,docker,nginx,postgres,linux,vim,bash,azure,git$perline=5" />
   </a>
 </p>
 
