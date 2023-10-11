@@ -3,14 +3,14 @@
 I build things that live on the web.
 - Fullstack Developer.
   - Web and Mobile.  
-  - JS/TS, PHP, Java, Rust, Kotlin, and Python (if I have to).
+  - JS/TS, PHP, Java, Rust, Go, and Python (if I have to).
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 
 ## My Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,kotlin,java,php,rust,python,react,laravel,spring,docker,nginx,postgres,linux,vim,bash,azure,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,go,java,php,rust,python,react,laravel,spring,docker,nginx,postgres,linux,vim,bash,azure,git,graphql&perline=6" />
   </a>
 </p>
 
