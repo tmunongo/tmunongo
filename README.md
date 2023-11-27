@@ -4,7 +4,7 @@ I build things that live on the web.
 - Fullstack Developer.
   - Web and Mobile.  
   - JS/TS, PHP, Java, Rust, Go, and Python (if I have to).
-- I also write @ [My Blog](https://www.tawandamunongo.dev)
+- I also write @ [My Blog](https://tawandamunongo.dev)
 
 ## My Stack
 
