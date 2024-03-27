@@ -3,7 +3,7 @@
 I build things that live on the web.
 - Fullstack Developer.
   - Web and Mobile.  
-  - PHP, Go, Kotlin, and JS/TS.
+  - PHP, Go, Rust, and JS/TS.
 - I also write @ [My Blog](https://tawandamunongo.dev)
 
 ## My Stack
