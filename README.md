@@ -4,6 +4,7 @@ I build things that live on the web.
 - Backend Developer.
   - PHP, Go, Rust, and JS/TS.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
+- in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer.
 
 ## My Stack
 
