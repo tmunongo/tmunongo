@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 I build things that live on the web.
-- Fullstack Developer.
-  - Web and Mobile.  
+- Backend Developer.
   - PHP, Go, Rust, and JS/TS.
-- I also write @ [My Blog](https://tawandamunongo.dev)
+- I also write @ [My Blog](https://www.tawandamunongo.dev)
 
 ## My Stack
 
