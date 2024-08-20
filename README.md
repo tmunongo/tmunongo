@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Tawanda 👋
 
 I build things that live on the web.
-- Backend Developer.
-  - PHP, Go, Rust, and JS/TS.
+- Backend Developer with a lingering interest in DevOps. I used to be nerdy about the cloud, now I'd rather build my own.
+  - My lingos include PHP, Go, Rust, and JS/TS. I've been known to write a bit of Python and Java, if you ask nicely.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 - in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer.
+- i use NixOS, btw
 
 ## My Stack
 
