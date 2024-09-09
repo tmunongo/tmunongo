@@ -6,6 +6,7 @@ I build things that live on the web.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 - in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, most sci-fi and old gangster flicks.
   - I am also an avid classic rock fan, especially Pink Floyd, Metallica, AC/DC, Journey, Meatloaf, and Rush!
+- Currently learning: Elixir, Gleam -> basically, anything BEAM VM based
 - i use NixOS, btw
 
 ## My Stack
