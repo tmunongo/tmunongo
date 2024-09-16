@@ -13,7 +13,7 @@ I build things that live on the web.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,ts,go,rust,python,spring,laravel,react,docker,nginx,postgres,linux,vim,bash,aws,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,php,ts,go,rust,elixir,python,laravel,react,docker,nginx,postgres,linux,vim,bash,aws,git,graphql&perline=6" />
   </a>
 </p>
 
