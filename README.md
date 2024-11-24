@@ -6,14 +6,14 @@ I build things that live on the web.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 - in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, most sci-fi and old gangster flicks.
   - I'm also a big classic rock fan, especially Pink Floyd, Metallica, AC/DC, Journey, Meatloaf, and Rush!
-- Currently learning: Elixir
+- Currently learning: Ruby on Rails
 - i use NixOS, btw
 
 ## My Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,ts,go,rust,elixir,python,laravel,react,docker,nginx,postgres,linux,vim,bash,aws,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,php,ts,ruby,java,rust,elixir,python,laravel,react,docker,nginx,postgres,linux,vim,bash,aws,git,graphql&perline=6" />
   </a>
 </p>
 
