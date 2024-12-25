@@ -20,7 +20,7 @@ I build software
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,php,ts,java,rust,python,docker,nginx,postgres,linux,vim,bash,aws,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,nix,mysql,mongodb,vim,bash,aws,git,graphql&perline=6" />
   </a>
 </p>
 
