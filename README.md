@@ -1,8 +1,8 @@
 ## Hi there, I'm Tawanda 👋
 
-I build things that live on the web.
+I build software
 - Backend Developer with an interest in distributed systems and high-performance web apps.
-  - My lingos include Go, PHP, Rust, and JS/TS. I've been known to write some Rust, Python, and Java, too.
+  - My lingos include Go, PHP, Rust, and JS/TS. I've been known to write some Ruby, Python, and Java, too.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 - in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, most sci-fi and old gangster flicks.
   - I mostly listen to classic rock: Pink Floyd, Metallica, AC/DC, Journey, Meatloaf, and Rush.
