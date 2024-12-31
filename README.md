@@ -1,12 +1,11 @@
 ## Hi there, I'm Tawanda 👋
 
-I build software
-- Backend Developer with an interest in distributed systems and high-performance web apps.
+- I'm a backend developer interested in self hosting, distributed systems, and high-performance web apps.
   - My lingos include Rust, PHP, Python, and JS/TS. I've been known to write some Go and Java, too.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
-- in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, most sci-fi and old gangster flicks.
+- in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, mostly sci-fi, comic book movies, and old gangster flicks.
   - I mostly listen to classic rock: Pink Floyd, Metallica, AC/DC, Journey, Meatloaf, and Rush.
-- recently ditched NixOS and hopped back to Fedora
+- currently daily driving Fedora
 
 ## My Stack
 
@@ -28,7 +27,7 @@ I build software
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,ansible,wasm,kubernetes,kafka&perline=6" />
+    <img src="https://skillicons.dev/icons?i=elixir,wasm,kubernetes&perline=6" />
   </a>
 </p>
 
