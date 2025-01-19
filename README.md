@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,php,ts,python,laravel,react,linux,fastapi,nodejs,mysql,redis,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,python,ts,java,laravel,react,remix,django,fastapi,nodejs,postgres,redis,linux,docker&perline=6" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,htmx,nix,postgres,mongodb,prisma,django,remix,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=rust,go,htmx,nix,mysql,mongodb,prisma,drizzle,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,wasm,kubernetes&perline=6" />
+    <img src="https://skillicons.dev/icons?i=elixir,kubernetes&perline=6" />
   </a>
 </p>
 
