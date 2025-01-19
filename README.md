@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,htmx,nix,mysql,mongodb,prisma,drizzle,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=rust,go,htmx,nix,mysql,mongodb,prisma,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
   </a>
 </p>
 
