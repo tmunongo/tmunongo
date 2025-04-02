@@ -1,6 +1,6 @@
 ## Hi there, I'm Tawanda 👋
 
-- I'm a fullstack developer with an affinity for self hosting, distributed systems, and high-performance web apps.
+- I'm a fullstack developer who enjoys self hosting and building distributed systems, high-performance web apps, and terminal-based developer tooling.
   - My lingos include PHP, Rust, Python, and JS/TS. I've been known to write some Go, too.
 - I also write @ [My Blog](https://www.tawandamunongo.dev)
 - in my spare time, I read a lot of cyberpunk fiction and space operas. favs include: Foundation, Hyperion, and Neuromancer. I also watch a lot of movies, mostly sci-fi, comic book movies, and old gangster flicks.
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,rust,ts,python,laravel,react,remix,django,fastapi,nodejs,postgres,redis,linux,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=php,rust,ts,laravel,react,remix,fastapi,nodejs,mysql,redis,linux,docker&perline=6" />
   </a>
 </p>
 
@@ -19,15 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,htmx,nix,mysql,mongodb,prisma,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
-  </a>
-</p>
-
-## What I'm interested in and trying to push onto my stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,kubernetes&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,ruby,rails,htmx,nix,django,postgres,mongodb,prisma,nextjs,vim,bash,aws,gcp,git,graphql&perline=6" />
   </a>
 </p>
 
