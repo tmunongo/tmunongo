@@ -1,6 +1,6 @@
 ## Hi there, I'm Tawanda 👋
 
-I'm a fullstack developer.
+I build software.
 
 I've worked on everything from mobile applications for government agencies, to web applications in the e-commerce and real estate spaces, and terminal-based developer tooling.
 
