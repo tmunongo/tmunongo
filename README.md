@@ -9,5 +9,3 @@ Over the years, I have built full-stack web applications, cross-platform mobile 
 I also write @ [My Blog](https://www.tawandamunongo.dev), mostly about code, but sometimes about other things, too.
 
 You can find all repos associated with blog posts/tutorials in [this org](https://github.com/orgs/inthesh3ll/repositories)
-
-[![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmunongo)](https://github.com/tmunongo/github-readme-stats)
