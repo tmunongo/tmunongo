@@ -1,11 +1,15 @@
-## Hi there, I'm Tawanda 👋
+Hi there, I'm Tawanda 👋
 
-I build software.
+I build software - mostly web applications and dev tools, increasingly games.
 
- Mainly, I am super interested in distributed systems and high performance computing.
+Background: Computer Science degree. Three years building production web apps. I work primarily with PHP (Laravel), TypeScript, Python, C#, and Java. I explore other languages when they solve problems elegantly (Go for lightweight systems, Rust for performance-critical work), but my production focus is on OOP languages where I can move fast and maintain clarity.
 
-My projects live here, but you can find a more detailed breakdown of my work history on my [about](https://tawandamunongo.dev/about) page.
+Professionally, I've built Shopify apps, mobile applications, and led architecture migrations. For the past several months, I've been the primary developer on Zapiet Eats serving thousands of users, managing everything from feature development to deployment strategy.
 
-I also write @ [My Blog](https://www.tawandamunongo.dev), mostly about code, but sometimes about other things, too.
+Personally, I build whatever interests me: lightweight tools, self-hosted web apps, visualizations, and lately, games.
 
-You can find all repos associated with blog posts/tutorials in [this org](https://github.com/orgs/inthesh3ll/repositories)
+Current focus: Exploring game development with Godot and C# and documenting what I build along the way.
+
+I also write @ [My Blog](https://www.tawandamunongo.dev/) - technical posts, architecture thoughts, and occasional essays on building things that matter.
+
+📂 Blog-associated repos: [inthesh3ll](https://github.com/orgs/inthesh3ll/repositories) org
