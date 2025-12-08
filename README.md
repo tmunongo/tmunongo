@@ -2,9 +2,9 @@ Hi there, I'm Tawanda 👋
 
 I build software - mostly web applications and dev tools, increasingly games.
 
-Background: Computer Science degree. Three years building production web apps. I work primarily with PHP (Laravel), TypeScript, Python, C#, and Java. I explore other languages when they solve problems elegantly (Go for lightweight systems, Rust for performance-critical work), but my production focus is on OOP languages where I can move fast and maintain clarity.
+ I have a CS degree and just over 3 years building production web-based systems. I work primarily with PHP, Go, Java, and Python depending on the scale of the project and domain. I've also recently developed an interest in game development and have been learning C# with that in mind.
 
-Professionally, I've built Shopify apps, mobile applications, and led architecture migrations. For the past several months, I've been the primary developer on Zapiet Eats serving thousands of users, managing everything from feature development to deployment strategy.
+Professionally, I've built Shopify apps, mobile applications, and led architecture migrations. For the past several months, I've been the primary developer on Zapiet Eats, managing everything from feature development to deployment strategy.
 
 Personally, I build whatever interests me: lightweight tools, self-hosted web apps, visualizations, and lately, games.
 
