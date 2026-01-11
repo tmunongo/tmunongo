@@ -3,6 +3,7 @@ Hi there, I'm Tawanda 👋
 I'm a software engineer and writer.
 
 Some of my most recent creations include:
+- [Codex Reader](https://tmunongo.github.io/codex-reader/) - A calm, customizable Markdown reader (Windows + Linux).
 - [Rivalspy](https://rivals.webbe.dev) - a Fantasy Premier League assistant tool.
 - [HN Digest](https://hndigest.webbe.dev) - a tool that converts top Hackernews posts into a scheduled RSS feed.
 - [Nanotools](https://tools.webbe.dev) - a collection of web-based utilities.
